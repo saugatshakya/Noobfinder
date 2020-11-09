@@ -1,7 +1,7 @@
 console.log("wait for it");
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('Nzc1NDE4MjE1ODUyNDA4ODQy.X6mCfQ.XE8iObxmBRS_INH571SqPQBXdm4');
+client.login('Nzc1NDE4MjE1ODUyNDA4ODQy.X6mCfQ.QJuLI4GFxCr0Y5YdT3kKxcoLV4w');
 
 client.on('ready',readyDiscord);
 client.on("message", gotMessage);
